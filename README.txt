@@ -1,1 +1,2 @@
-Verander het bestand en commit hem.
+Verander het bestand door je naam erin te zetten en commit hem.
+Jorijn
