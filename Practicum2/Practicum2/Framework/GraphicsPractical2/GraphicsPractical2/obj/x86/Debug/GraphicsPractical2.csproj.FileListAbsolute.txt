@@ -1,0 +1,10 @@
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Effects\Simple.xnb
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\Teapot.xnb
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Normal Maps\CobblestonesNormal.xnb
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Textures\CobblestonesDiffuse.xnb
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\GraphicsPractical2.exe
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\GraphicsPractical2.pdb
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.exe
+U:\Visual Studio 2010\Projects\Practicum2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.pdb
