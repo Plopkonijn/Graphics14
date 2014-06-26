@@ -157,7 +157,7 @@ namespace GraphicsPractical2
 
             // Update the window title
             
-            this.Window.Title = "XNA Renderer | FPS: " + this.frameRateCounter.FrameRate + "  " + mstate.ScrollWheelValue  ;
+            this.Window.Title = "XNA Renderer | FPS: " + this.frameRateCounter.FrameRate ;
             
             
             //Movement
@@ -301,9 +301,9 @@ namespace GraphicsPractical2
                     break;
                 case 2:
                     effect.CurrentTechnique = effect.Techniques["Spotlight"];
-                    init_grayscale();
+                    init_multiple_lights();//init_grayscale();
                     effect.Parameters["cosine_alpha"].SetValue((float)(Math.Cos(Math.PI / (60+mstate.ScrollWheelValue/120))));
-                    effect.Parameters["cosine_beta"].SetValue((float)(Math.Cos(Math.PI / (45+mstate.ScrollWheelValue/120))));
+                    effect.Parameters["cosine_beta"].SetValue((float)(Math.Cos(Math.PI / (30+mstate.ScrollWheelValue/120))));
                     break;
                 default:
                     teller = 0;

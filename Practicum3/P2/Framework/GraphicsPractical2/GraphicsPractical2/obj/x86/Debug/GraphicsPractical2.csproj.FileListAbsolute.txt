@@ -24,3 +24,16 @@ C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\o
 C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.exe
 C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.pdb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Effects\Simple.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Effects\Postprocessing.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\Teapot.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\bunny.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\femalehead.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Normal Maps\CobblestonesNormal.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Textures\CobblestonesDiffuse.xnb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\GraphicsPractical2.exe
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\GraphicsPractical2.pdb
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.csprojResolveAssemblyReference.cache
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.exe
+A:\Projects\Graphics14\Practicum3\P2\Framework\GraphicsPractical2\GraphicsPractical2\obj\x86\Debug\GraphicsPractical2.pdb

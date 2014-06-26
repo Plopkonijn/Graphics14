@@ -85,7 +85,7 @@ float4 CelColor(float4 color,float cells)
 	//misschien in de bovenliggende methode
 	color = color*cells;
 	color = color - frac(color);
-	color = color /(cells);
+	color = color /cells;
 	return color;
 }
 
@@ -179,7 +179,7 @@ float4 SimplePixelShader(VertexShaderOutput input) : COLOR0    //pixelshader for
 		color=color + AmbientIntensity*AmbientColor;
 		
 		
-		//color = CelColor(color,1);
+		color = CelColor(color,2);
 
 
 	return color;
@@ -201,10 +201,8 @@ float4 SpotlightPixelShader(VertexShaderOutput input) : COLOR0    //pixelshader 
 	{
 		
 		float factor = dot(normalize(LightSource[i]), normalize(LightSource[i]- input.Pos3D ));
-	    //factor = ceil(max(factor-cosine_alpha,0));
 		factor = saturate(max(factor-cosine_beta,0)/(cosine_alpha-cosine_beta));
-
-	    color = factor * saturate(color + LambertColor(DiffuseColor, input.Pos3D,normalize(input.Normal), i));
+	    color = saturate(color + factor*LambertColor(DiffuseColor, input.Pos3D,normalize(input.Normal), i));
 
 
 		
