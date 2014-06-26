@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effects\Simple.fx</Source>
+      <Name>Effects\Simple</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Effects\Simple.xnb</Output>
+      <Time>2014-06-26T02:15:18.1323617+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Postprocessing.fx</Source>
+      <Name>Effects\Postprocessing</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Effects\Postprocessing.xnb</Output>
+      <Time>2014-06-25T22:58:52.8523372+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Teapot.fbx</Source>
+      <Name>Models\Teapot</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\Teapot.xnb</Output>
+      <Time>2014-04-29T15:46:28+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Teapot_0.xml</Key>
+        <Value>2014-06-26T02:22:09.143353+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\bunny.fbx</Source>
+      <Name>Models\bunny</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\bunny.xnb</Output>
+      <Time>2014-06-25T02:15:31.2595459+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bunny_0.xml</Key>
+        <Value>2014-06-26T02:22:09.2564489+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\femalehead.fbx</Source>
+      <Name>Models\femalehead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Models\femalehead.xnb</Output>
+      <Time>2014-06-25T02:11:36.4135712+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\femalehead_0.xml</Key>
+        <Value>2014-06-26T02:22:09.4416425+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Normal Maps\CobblestonesNormal.png</Source>
+      <Name>Normal Maps\CobblestonesNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Normal Maps\CobblestonesNormal.xnb</Output>
+      <Time>2014-04-29T15:46:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CobblestonesDiffuse.png</Source>
+      <Name>Textures\CobblestonesDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\Textures\CobblestonesDiffuse.xnb</Output>
+      <Time>2014-04-29T15:46:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Teapot.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Teapot_0.xml</Output>
+      <Time>2014-04-29T15:46:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bunny.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bunny_0.xml</Output>
+      <Time>2014-06-25T02:15:31.2595459+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\femalehead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\femalehead_0.xml</Output>
+      <Time>2014-06-25T02:11:36.4135712+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-25T02:07:09.122708+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

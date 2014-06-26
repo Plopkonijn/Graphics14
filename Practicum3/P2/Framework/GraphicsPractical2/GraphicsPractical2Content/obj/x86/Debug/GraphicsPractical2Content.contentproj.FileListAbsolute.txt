@@ -1,0 +1,2 @@
+C:\Users\PlopKonijn\Desktop\FrameworkP2\Framework\GraphicsPractical2\GraphicsPractical2Content\obj\x86\Debug\GraphicsPractical2Content.contentprojResolveAssemblyReference.cache
+C:\Users\PlopKonijn\Desktop\P2\Framework\GraphicsPractical2\GraphicsPractical2Content\obj\x86\Debug\GraphicsPractical2Content.contentprojResolveAssemblyReference.cache
